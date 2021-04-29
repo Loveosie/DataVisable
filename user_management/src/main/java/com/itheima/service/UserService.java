@@ -788,6 +788,9 @@ public class UserService {
         File templateFile = new File(rootFile, "/pdf_template/userList2.jasper");
         HashMap<String, Object> params = new HashMap<>();
         // File templateFile = new File(rootFile, "/pdf_template/userList.jasper");
+
+
+
         // 模板中分组, 数据中排序实现按省份排序
         Example example = new Example(User.class);
         example.setOrderByClause("province desc");
