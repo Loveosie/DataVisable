@@ -1,0 +1,18 @@
+
+^
+java:S1193–"@Replace the usage of the "instanceof" operator by a catch block.(×’°è8À¶ãÆõ.
+]
+java:S1193T"@Replace the usage of the "instanceof" operator by a catch block.(×’°è8À¶ãÆõ.
+Z
+java:S1854Œ"<Remove this useless assignment to local variable "userPswd".(ÊÌ§­8š¨™õ.
+`
+java:S1155-">Use isEmpty() to check whether the collection is empty or not.(á£»£ÿÿÿÿÿ8Ñê–øô.
+]	java:S125B"<This block of commented-out lines of code should be removed.(Ûìš÷üÿÿÿÿ8Ú×¨øô.
+^
+java:S3457S"AFormat specifiers should be used instead of string concatenation.(ûù“š8À¶ãÆõ.
+‚
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(Ç¸Ç©şÿÿÿÿ8¬ïÏõ.
+[
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(¨Œ¥8š£Ä¦÷.
+_
+java:S3457•"AFormat specifiers should be used instead of string concatenation.(ûù“š8À¶ãÆõ.

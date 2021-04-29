@@ -1,0 +1,13 @@
+
+Y
+java:S2629Z"7Use the built-in formatting to construct this argument.(è¦ö­úÿÿÿÿ8­øîğô.
+e
+java:S3518b"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8ú–öô.
+X	java:S125?"<This block of commented-out lines of code should be removed.(ÿàÌş8íÒŞÉõ.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿ8¸’€öô.
+c
+java:S3457Z"AFormat specifiers should be used instead of string concatenation.(è¦ö­úÿÿÿÿ8¢çÿõô.
+B
+java:S1481`"&Remove this unused "a" local variable.(˜ê”8ú–öô.
+]	java:S125!"<This block of commented-out lines of code should be removed.(Âö¤”úÿÿÿÿ8¶«ŞÉõ.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(’¶¹‚8ò¸éÍô.

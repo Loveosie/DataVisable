@@ -1,0 +1,19 @@
+
+S
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(Á½¼s
+o
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³Ù
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ
+Z	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+`	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿ
+^
+java:S1192ø"GDefine a constant instead of duplicating this literal "title" 12 times.(ï¶“
+Y
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(í´Õûüÿÿÿÿ
+c
+java:S1192¾"LDefine a constant instead of duplicating this literal "categoryId" 10 times.(ğô‡
+v
+java:S14888"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(¶Õ¯ì
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉe
